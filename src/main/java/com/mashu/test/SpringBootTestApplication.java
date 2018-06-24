@@ -10,5 +10,6 @@ public class SpringBootTestApplication {
 		SpringApplication.run(SpringBootTestApplication.class, args);
 		System.out.println("mashu");
 		String i = "11";
+		System.out.println(i);
 	}
 }
